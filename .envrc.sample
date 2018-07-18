@@ -1,0 +1,6 @@
+export praw_check_for_updates=false
+export praw_client_id=
+export praw_client_secret=
+export praw_password=
+export praw_user_agent="osx:app_id:0.0.1 (by /u/username)"
+export praw_username=
